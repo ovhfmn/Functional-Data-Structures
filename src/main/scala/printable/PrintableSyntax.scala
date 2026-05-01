@@ -1,4 +1,4 @@
-package PrintableInstances
+package printable
 
 object PrintableSyntax {
   implicit class PrintableOps[A](value: A) {

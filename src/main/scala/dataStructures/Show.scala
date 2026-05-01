@@ -1,4 +1,4 @@
-package DataStructures
+package dataStructures
 
 trait Show[A] {
   def show(value: A): String
